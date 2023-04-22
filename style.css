@@ -35,6 +35,14 @@ button a {
 button a:hover {
 	color: white;
 }
+footer {
+	text-align: center;
+	margin-top: 70px;
+	color: antiquewhite;
+}
+footer a {
+	color: antiquewhite;
+}
 .cooking-time {
 	display: flex;
 	flex-direction: column;
