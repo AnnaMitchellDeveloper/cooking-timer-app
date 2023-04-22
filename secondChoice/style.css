@@ -55,6 +55,9 @@ button a:hover {
 .back-to-homepage:hover{
 	color: orange;
 }
+.countdown {
+	font-size: 100px;
+}
 #myVideo {
 	position: fixed;
 	top: 0;
