@@ -41,6 +41,20 @@ button a:hover {
 	align-items: center;
 	justify-content: space-evenly;
 }
+.container-countdown {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.back-to-homepage {
+	margin: 50px;
+	color: aliceblue;
+	font-size: 20px;
+	transition: all 300ms ease;
+}
+.back-to-homepage:hover{
+	color: orange;
+}
 #myVideo {
 	position: fixed;
 	top: 0;
